@@ -510,7 +510,7 @@ const globalStyles = `
   }
 
   .footer-logo {
-    height: 130px;
+    height: 195px;
     max-width: 100%;
     object-fit: contain;
     margin-bottom: 30px;
